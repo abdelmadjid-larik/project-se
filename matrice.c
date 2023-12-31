@@ -1,5 +1,5 @@
 // Noui Mehdi G02
-// Abdelmadjid Larik G02
+// Abdelmadjid Larik G02 
 
 #include <stdio.h>
 #include <stdlib.h>
